@@ -1,0 +1,1 @@
+-keep class ios.duc.flutter_base.BuildConfig { *; }
