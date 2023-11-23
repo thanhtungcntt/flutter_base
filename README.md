@@ -3,14 +3,19 @@
 Base Flutter Project.
 
 ## Using
-+ Step 1:
-`dart pub global activate use_template`
++ Step 1: 
+`open terminal`
 
 + Step 2:
-`use_template {{name}} https://github.com/thanhtungcntt/flutter_base.git {{source_path}} 
+`dart pub global activate use_template`
+
++ Step 3:
+`use_template {{name}} https://github.com/thanhtungcntt/flutter_base.git {{source_path}} `
 
 Note: 
+
 {{name}}: name project (ex: application_flutter_project)
+
 {{source_path}}: path contains the code base (ex: /Users/Application/) 
 
 ## Conventional commits
