@@ -39,6 +39,7 @@ dependencies:
   result_dart: ^1.1.0
   retrofit: ^4.0.3
   flutter_screenutil: ^5.9.0
+  group_list_view: ^1.1.1
 
 dev_dependencies:
   flutter_lints: ^3.0.0

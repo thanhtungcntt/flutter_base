@@ -59,7 +59,7 @@ android {
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
-        resValue "string", "build_config_package", "ios.duc.flutter_base"
+        resValue "string", "build_config_package", "ios.tyler.flutter_base"
     }
 
     buildTypes {

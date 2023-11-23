@@ -1,4 +1,4 @@
-package ios.duc.flutter_base
+package ios.tyler.flutter_base
 
 import io.flutter.embedding.android.FlutterActivity
 
