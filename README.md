@@ -55,4 +55,8 @@ Note:
 
 ![ddd_folders](https://github.com/duc-ios/flutter_base/raw/main/ddd_folders.jpg)
 
+## Localization Generate:
+
+https://docs.google.com/spreadsheets/d/1p9-Sp1XZiLlGm3wGX8Hk1eFMXWbHTuHN3A2SY9szpBo/edit?usp=sharing
+
 Copyright © 2023 Tyler Flutter
